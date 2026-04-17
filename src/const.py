@@ -1,0 +1,12 @@
+WIDTH = 10 ##? Ширина поля
+HEIGHT = 20 ##? Высота
+SCALE = 30  ##! Маштаб поля
+FPS = 60
+ELEMENT_SIZE = 28
+EL_RADIUS = 3
+SCORE_COLOR = 'white'
+GAME_OVER_COLOR = 'red'
+SPEED_SNAKE = 20
+SNAKE_COLOR = 'yellow'
+SCREEN_COLOR = 'green'
+APPLE_COLOR = 'red'
